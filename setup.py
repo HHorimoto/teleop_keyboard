@@ -19,7 +19,7 @@ setup(
     maintainer='Hiroto Horimoto',
     maintainer_email='81685394+HHorimoto@users.noreply.github.com',
     description='This package is for control robot with keyborad ROS2',
-    license='BSD',
+    license='MIT',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
