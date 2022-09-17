@@ -2,6 +2,10 @@
 
 **This package is for control robot with keyborad ROS2.**
 
+## Video
+
+If you want to see sample video, please check [here](https://youtu.be/kvL5jlXhTgg)
+
 ## Requirement
 + Ubuntu 20.04
 + ROS2 (foxy)
